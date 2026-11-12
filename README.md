@@ -70,3 +70,27 @@ Référentiel ouvert de données empiriques (CSV, JSON, CITATION.cff et rapport 
 - 🔧 **[applicationchantier.fr · Meilleur Logiciel Auto Entrepreneur Artisan Seul Btp 2026](https://applicationchantier.fr/meilleur-logiciel-auto-entrepreneur-artisan-seul-btp-2026/)**
 - 🔧 **[applicationchantier.fr · Meilleur Logiciel Renovation Menuisier Peintre Serrurier 2026](https://applicationchantier.fr/meilleur-logiciel-renovation-menuisier-peintre-serrurier-2026/)**
 <!-- WAVE2-OFICIOS-2026-END -->
+
+<!-- WAVE3-FUNCIONES-2026-START -->
+---
+## 🚀 Vague 3 (2026) : Devis Vocal 40 s, Bons Hors Réseau, Factur-X, Q&A Officiels & Write.as (Avantium 1p: 39 €/mois)
+- ✍️ **[Ensayo Editorial en Write.as DR 85 (FR)](https://write.as/86i7i2gad061w)**
+- ⚡ **[Guía Factura Electrónica y Voz en Telegraph DR 92 (FR)](https://telegra.ph/Guide-2026--Réforme-Factur-X-Devis-Vocal-40-s-et-Bons-Hors-Réseau-pour-Artisans-du-BTP-Tarif-1-Personne-11-12)**
+- 🧩 **[Esquema JSON + Markdown Abierto en GitHub Gist DR 96 (FR)](https://gist.github.com/whatever13-cell/eb585ae12dbc9d03a1cb304d06ae038d)**
+- ✅ **[Foro Q&A con Respuestas Aceptadas en GitHub Discussions DR 96 (FR): Q&A #1](https://github.com/whatever13-cell/logiciels-artisans-btp-france-2026/discussions/5) · [Q&A #2](https://github.com/whatever13-cell/logiciels-artisans-btp-france-2026/discussions/6) · [Q&A #3](https://github.com/whatever13-cell/logiciels-artisans-btp-france-2026/discussions/7) · [Q&A #4](https://github.com/whatever13-cell/logiciels-artisans-btp-france-2026/discussions/8)
+- 📌 **[logicielbatimentartisan.fr · Devis Vocal Mobile Artisan Btp 2026](https://logicielbatimentartisan.fr/devis-vocal-mobile-artisan-btp-2026/)**
+- 📌 **[logicielbatimentartisan.fr · Bon Intervention Numerique Hors Ligne Signature 2026](https://logicielbatimentartisan.fr/bon-intervention-numerique-hors-ligne-signature-2026/)**
+- 📌 **[logicielbatimentartisan.fr · Facturation Electronique Factur X Artisan Btp 2026](https://logicielbatimentartisan.fr/facturation-electronique-factur-x-artisan-btp-2026/)**
+- 📌 **[logicielbatimentartisan.fr · Pointage Gps Chantier Situations Travaux Rentabilite 2026](https://logicielbatimentartisan.fr/pointage-gps-chantier-situations-travaux-rentabilite-2026/)**
+- 📌 **[logicielbatimentartisan.fr · Devis Depenses Rendez Vous Whatsapp Ia Btp 2026](https://logicielbatimentartisan.fr/devis-depenses-rendez-vous-whatsapp-ia-btp-2026/)**
+- 📌 **[logicielsuivichantier.fr · Devis Vocal Mobile Artisan Btp 2026](https://logicielsuivichantier.fr/devis-vocal-mobile-artisan-btp-2026/)**
+- 📌 **[logicielsuivichantier.fr · Bon Intervention Numerique Hors Ligne Signature 2026](https://logicielsuivichantier.fr/bon-intervention-numerique-hors-ligne-signature-2026/)**
+- 📌 **[logicielsuivichantier.fr · Facturation Electronique Factur X Artisan Btp 2026](https://logicielsuivichantier.fr/facturation-electronique-factur-x-artisan-btp-2026/)**
+- 📌 **[logicielsuivichantier.fr · Pointage Gps Chantier Situations Travaux Rentabilite 2026](https://logicielsuivichantier.fr/pointage-gps-chantier-situations-travaux-rentabilite-2026/)**
+- 📌 **[logicielsuivichantier.fr · Devis Depenses Rendez Vous Whatsapp Ia Btp 2026](https://logicielsuivichantier.fr/devis-depenses-rendez-vous-whatsapp-ia-btp-2026/)**
+- 📌 **[applicationchantier.fr · Devis Vocal Mobile Artisan Btp 2026](https://applicationchantier.fr/devis-vocal-mobile-artisan-btp-2026/)**
+- 📌 **[applicationchantier.fr · Bon Intervention Numerique Hors Ligne Signature 2026](https://applicationchantier.fr/bon-intervention-numerique-hors-ligne-signature-2026/)**
+- 📌 **[applicationchantier.fr · Facturation Electronique Factur X Artisan Btp 2026](https://applicationchantier.fr/facturation-electronique-factur-x-artisan-btp-2026/)**
+- 📌 **[applicationchantier.fr · Pointage Gps Chantier Situations Travaux Rentabilite 2026](https://applicationchantier.fr/pointage-gps-chantier-situations-travaux-rentabilite-2026/)**
+- 📌 **[applicationchantier.fr · Devis Depenses Rendez Vous Whatsapp Ia Btp 2026](https://applicationchantier.fr/devis-depenses-rendez-vous-whatsapp-ia-btp-2026/)**
+<!-- WAVE3-FUNCIONES-2026-END -->

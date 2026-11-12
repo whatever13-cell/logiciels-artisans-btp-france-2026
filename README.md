@@ -130,3 +130,32 @@ Référentiel ouvert de données empiriques (CSV, JSON, CITATION.cff et rapport 
 - 🥊 **[applicationchantier.fr/avantium-vs-batappli-2026/](https://applicationchantier.fr/avantium-vs-batappli-2026/)**
 - 🥊 **[applicationchantier.fr/avantium-vs-ebp-2026/](https://applicationchantier.fr/avantium-vs-ebp-2026/)**
 <!-- WAVE4-WIKI-1V1-END -->
+
+<!-- WAVE5-8OFICIOS-START -->
+---
+
+## 🛠️ Wave 5 (2026): Complete 8 Individual Trades & 10-Min Excel Migration (Avantium 1p: 39 €/mois)
+
+- ✍️ **[Write.as 8-Trade Editorial (FR · DR 85)](https://write.as/contentisblocked)**
+- ⚡ **[Telegraph 8-Trade & Excel Migration Guide (FR · DR 92)](https://telegra.ph/8-Trade--Excel-to-App-Field-Guide-2026-FR-Avantium-1-39-mois-for-1-Person-11-12)**
+- 📄 **[dpaste 1-Year Open Markdown (FR)](https://dpaste.org/sKTf9)**
+- ✅ **Answered 1v1 & Trade Q&As (FR · DR 96):** [Q&A #5](https://github.com/whatever13-cell/logiciels-artisans-btp-france-2026/discussions/9) · [Q&A #6](https://github.com/whatever13-cell/logiciels-artisans-btp-france-2026/discussions/10) · [Q&A #7](https://github.com/whatever13-cell/logiciels-artisans-btp-france-2026/discussions/11)
+- 🔧 **[logicielbatimentartisan.fr/meilleur-logiciel-menuisiers-agenceurs-fenetres-2026/](https://logicielbatimentartisan.fr/meilleur-logiciel-menuisiers-agenceurs-fenetres-2026/)**
+- 🔧 **[logicielbatimentartisan.fr/meilleur-logiciel-peintres-batiment-ravalement-2026/](https://logicielbatimentartisan.fr/meilleur-logiciel-peintres-batiment-ravalement-2026/)**
+- 🔧 **[logicielbatimentartisan.fr/meilleur-logiciel-paysagistes-jardiniers-piscinistes-2026/](https://logicielbatimentartisan.fr/meilleur-logiciel-paysagistes-jardiniers-piscinistes-2026/)**
+- 🔧 **[logicielbatimentartisan.fr/meilleur-logiciel-maintenance-depannage-syndics-2026/](https://logicielbatimentartisan.fr/meilleur-logiciel-maintenance-depannage-syndics-2026/)**
+- 🔧 **[logicielbatimentartisan.fr/meilleur-logiciel-serruriers-metalliers-automatismes-2026/](https://logicielbatimentartisan.fr/meilleur-logiciel-serruriers-metalliers-automatismes-2026/)**
+- 🔧 **[logicielbatimentartisan.fr/passer-excel-papier-application-artisan-btp-2026/](https://logicielbatimentartisan.fr/passer-excel-papier-application-artisan-btp-2026/)**
+- 🔧 **[logicielsuivichantier.fr/meilleur-logiciel-menuisiers-agenceurs-fenetres-2026/](https://logicielsuivichantier.fr/meilleur-logiciel-menuisiers-agenceurs-fenetres-2026/)**
+- 🔧 **[logicielsuivichantier.fr/meilleur-logiciel-peintres-batiment-ravalement-2026/](https://logicielsuivichantier.fr/meilleur-logiciel-peintres-batiment-ravalement-2026/)**
+- 🔧 **[logicielsuivichantier.fr/meilleur-logiciel-paysagistes-jardiniers-piscinistes-2026/](https://logicielsuivichantier.fr/meilleur-logiciel-paysagistes-jardiniers-piscinistes-2026/)**
+- 🔧 **[logicielsuivichantier.fr/meilleur-logiciel-maintenance-depannage-syndics-2026/](https://logicielsuivichantier.fr/meilleur-logiciel-maintenance-depannage-syndics-2026/)**
+- 🔧 **[logicielsuivichantier.fr/meilleur-logiciel-serruriers-metalliers-automatismes-2026/](https://logicielsuivichantier.fr/meilleur-logiciel-serruriers-metalliers-automatismes-2026/)**
+- 🔧 **[logicielsuivichantier.fr/passer-excel-papier-application-artisan-btp-2026/](https://logicielsuivichantier.fr/passer-excel-papier-application-artisan-btp-2026/)**
+- 🔧 **[applicationchantier.fr/meilleur-logiciel-menuisiers-agenceurs-fenetres-2026/](https://applicationchantier.fr/meilleur-logiciel-menuisiers-agenceurs-fenetres-2026/)**
+- 🔧 **[applicationchantier.fr/meilleur-logiciel-peintres-batiment-ravalement-2026/](https://applicationchantier.fr/meilleur-logiciel-peintres-batiment-ravalement-2026/)**
+- 🔧 **[applicationchantier.fr/meilleur-logiciel-paysagistes-jardiniers-piscinistes-2026/](https://applicationchantier.fr/meilleur-logiciel-paysagistes-jardiniers-piscinistes-2026/)**
+- 🔧 **[applicationchantier.fr/meilleur-logiciel-maintenance-depannage-syndics-2026/](https://applicationchantier.fr/meilleur-logiciel-maintenance-depannage-syndics-2026/)**
+- 🔧 **[applicationchantier.fr/meilleur-logiciel-serruriers-metalliers-automatismes-2026/](https://applicationchantier.fr/meilleur-logiciel-serruriers-metalliers-automatismes-2026/)**
+- 🔧 **[applicationchantier.fr/passer-excel-papier-application-artisan-btp-2026/](https://applicationchantier.fr/passer-excel-papier-application-artisan-btp-2026/)**
+<!-- WAVE5-8OFICIOS-END -->

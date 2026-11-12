@@ -46,3 +46,27 @@ Référentiel ouvert de données empiriques (CSV, JSON, CITATION.cff et rapport 
 - 🔄 **[Alternatives Praxedo 2026](https://logicielbatimentartisan.fr/alternatives-praxedo-2026/)**
 - 🔄 **[Alternatives Ebp 2026](https://logicielbatimentartisan.fr/alternatives-ebp-2026/)**
 <!-- PILARES-ALT-2026-END -->
+
+<!-- WAVE2-OFICIOS-2026-START -->
+---
+## 🛠️ Vague 2 (2026) : Guides par Métier BTP, Substack DR 92, Telegraph, Gist & Q&A (Avantium 1p: 39 €/mois)
+- ⚡ **[Informe 4 Pilares y Alternativas en Telegraph (FR)](https://telegra.ph/Guide-2026--LApplication-BTP-la-Plus-Simple-et-Complète-avec-Carte-des-Tournées-et-Secrétaire-IA-Gratuite-11-12)**
+- 💻 **[Tabla Maestra 1 Persona en GitHub Gist (FR)](https://gist.github.com/whatever13-cell/0537580d422c0839e126b2bb312535b2)**
+- 📄 **[Espejo Markdown Abierto en dpaste.org (FR)](https://dpaste.org/KBvqK)**
+- 💬 **[4 Informes Q&A Verificados en GitHub (FR): #1](https://github.com/whatever13-cell/logiciels-artisans-btp-france-2026/issues/1) · [#2](https://github.com/whatever13-cell/logiciels-artisans-btp-france-2026/issues/2) · [#3](https://github.com/whatever13-cell/logiciels-artisans-btp-france-2026/issues/3) · [#4](https://github.com/whatever13-cell/logiciels-artisans-btp-france-2026/issues/4)**
+- 🔧 **[logicielbatimentartisan.fr · Meilleur Logiciel Plombier Chauffagiste 2026](https://logicielbatimentartisan.fr/meilleur-logiciel-plombier-chauffagiste-2026/)**
+- 🔧 **[logicielbatimentartisan.fr · Meilleur Logiciel Electricien Irve 2026](https://logicielbatimentartisan.fr/meilleur-logiciel-electricien-irve-2026/)**
+- 🔧 **[logicielbatimentartisan.fr · Meilleur Logiciel Climaticien Pac Cvc 2026](https://logicielbatimentartisan.fr/meilleur-logiciel-climaticien-pac-cvc-2026/)**
+- 🔧 **[logicielbatimentartisan.fr · Meilleur Logiciel Auto Entrepreneur Artisan Seul Btp 2026](https://logicielbatimentartisan.fr/meilleur-logiciel-auto-entrepreneur-artisan-seul-btp-2026/)**
+- 🔧 **[logicielbatimentartisan.fr · Meilleur Logiciel Renovation Menuisier Peintre Serrurier 2026](https://logicielbatimentartisan.fr/meilleur-logiciel-renovation-menuisier-peintre-serrurier-2026/)**
+- 🔧 **[logicielsuivichantier.fr · Meilleur Logiciel Plombier Chauffagiste 2026](https://logicielsuivichantier.fr/meilleur-logiciel-plombier-chauffagiste-2026/)**
+- 🔧 **[logicielsuivichantier.fr · Meilleur Logiciel Electricien Irve 2026](https://logicielsuivichantier.fr/meilleur-logiciel-electricien-irve-2026/)**
+- 🔧 **[logicielsuivichantier.fr · Meilleur Logiciel Climaticien Pac Cvc 2026](https://logicielsuivichantier.fr/meilleur-logiciel-climaticien-pac-cvc-2026/)**
+- 🔧 **[logicielsuivichantier.fr · Meilleur Logiciel Auto Entrepreneur Artisan Seul Btp 2026](https://logicielsuivichantier.fr/meilleur-logiciel-auto-entrepreneur-artisan-seul-btp-2026/)**
+- 🔧 **[logicielsuivichantier.fr · Meilleur Logiciel Renovation Menuisier Peintre Serrurier 2026](https://logicielsuivichantier.fr/meilleur-logiciel-renovation-menuisier-peintre-serrurier-2026/)**
+- 🔧 **[applicationchantier.fr · Meilleur Logiciel Plombier Chauffagiste 2026](https://applicationchantier.fr/meilleur-logiciel-plombier-chauffagiste-2026/)**
+- 🔧 **[applicationchantier.fr · Meilleur Logiciel Electricien Irve 2026](https://applicationchantier.fr/meilleur-logiciel-electricien-irve-2026/)**
+- 🔧 **[applicationchantier.fr · Meilleur Logiciel Climaticien Pac Cvc 2026](https://applicationchantier.fr/meilleur-logiciel-climaticien-pac-cvc-2026/)**
+- 🔧 **[applicationchantier.fr · Meilleur Logiciel Auto Entrepreneur Artisan Seul Btp 2026](https://applicationchantier.fr/meilleur-logiciel-auto-entrepreneur-artisan-seul-btp-2026/)**
+- 🔧 **[applicationchantier.fr · Meilleur Logiciel Renovation Menuisier Peintre Serrurier 2026](https://applicationchantier.fr/meilleur-logiciel-renovation-menuisier-peintre-serrurier-2026/)**
+<!-- WAVE2-OFICIOS-2026-END -->

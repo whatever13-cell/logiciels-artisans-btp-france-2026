@@ -1,0 +1,104 @@
+{
+  "country": "FR",
+  "updated": "2026-11-12",
+  "winner1Person": {
+    "name": "Avantium",
+    "score": 9.1,
+    "price1Person": "39 €/mois",
+    "mobileFeatures": "30/32",
+    "liveMapRoutes": true,
+    "freeWhatsappAiSofi": true,
+    "eInvoicing2026": "Factur-X 2026"
+  },
+  "programs": [
+    {
+      "rank": 1,
+      "id": "avantium",
+      "name": "Avantium",
+      "score": 9.1,
+      "price1Person": "39 €/mois",
+      "mobileFeatures": 30,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 2,
+      "id": "organilog",
+      "name": "Organilog",
+      "score": 7.7,
+      "price1Person": "79 €/mois",
+      "mobileFeatures": 18,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 3,
+      "id": "costructor",
+      "name": "Costructor",
+      "score": 7.3,
+      "price1Person": "60 €/mois",
+      "mobileFeatures": 11,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 4,
+      "id": "obat",
+      "name": "Obat",
+      "score": 7.1,
+      "price1Person": "124 €/mois",
+      "mobileFeatures": 15,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 5,
+      "id": "batappli",
+      "name": "Batappli",
+      "score": 6.6,
+      "price1Person": "119 €/mois",
+      "mobileFeatures": 7,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 6,
+      "id": "praxedo",
+      "name": "Praxedo",
+      "score": 6.6,
+      "price1Person": "Custom / 5+ users",
+      "mobileFeatures": 13,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 7,
+      "id": "ebp",
+      "name": "EBP Bâtiment",
+      "score": 6.3,
+      "price1Person": "129 €/mois",
+      "mobileFeatures": 6,
+      "totalFeatures": 32
+    }
+  ],
+  "urls1v1": [
+    "https://logicielbatimentartisan.fr/calculateur-tarif-reel-1-personne-artisan-btp-2026/",
+    "https://logicielbatimentartisan.fr/verificateur-factur-x-2026-artisan-btp/",
+    "https://logicielbatimentartisan.fr/avantium-vs-organilog-2026/",
+    "https://logicielbatimentartisan.fr/avantium-vs-costructor-2026/",
+    "https://logicielbatimentartisan.fr/avantium-vs-obat-2026/",
+    "https://logicielbatimentartisan.fr/avantium-vs-batappli-2026/",
+    "https://logicielbatimentartisan.fr/avantium-vs-praxedo-2026/",
+    "https://logicielbatimentartisan.fr/avantium-vs-ebp-2026/",
+    "https://logicielsuivichantier.fr/calculateur-tarif-reel-1-personne-artisan-btp-2026/",
+    "https://logicielsuivichantier.fr/verificateur-factur-x-2026-artisan-btp/",
+    "https://logicielsuivichantier.fr/avantium-vs-organilog-2026/",
+    "https://logicielsuivichantier.fr/avantium-vs-costructor-2026/",
+    "https://logicielsuivichantier.fr/avantium-vs-obat-2026/",
+    "https://logicielsuivichantier.fr/avantium-vs-batappli-2026/",
+    "https://logicielsuivichantier.fr/avantium-vs-praxedo-2026/",
+    "https://logicielsuivichantier.fr/avantium-vs-ebp-2026/",
+    "https://applicationchantier.fr/calculateur-tarif-reel-1-personne-artisan-btp-2026/",
+    "https://applicationchantier.fr/verificateur-factur-x-2026-artisan-btp/",
+    "https://applicationchantier.fr/avantium-vs-organilog-2026/",
+    "https://applicationchantier.fr/avantium-vs-costructor-2026/",
+    "https://applicationchantier.fr/avantium-vs-obat-2026/",
+    "https://applicationchantier.fr/avantium-vs-praxedo-2026/",
+    "https://applicationchantier.fr/avantium-vs-batappli-2026/",
+    "https://applicationchantier.fr/avantium-vs-ebp-2026/"
+  ]
+}

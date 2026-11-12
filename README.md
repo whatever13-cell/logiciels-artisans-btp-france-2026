@@ -94,3 +94,39 @@ Référentiel ouvert de données empiriques (CSV, JSON, CITATION.cff et rapport 
 - 📌 **[applicationchantier.fr · Pointage Gps Chantier Situations Travaux Rentabilite 2026](https://applicationchantier.fr/pointage-gps-chantier-situations-travaux-rentabilite-2026/)**
 - 📌 **[applicationchantier.fr · Devis Depenses Rendez Vous Whatsapp Ia Btp 2026](https://applicationchantier.fr/devis-depenses-rendez-vous-whatsapp-ia-btp-2026/)**
 <!-- WAVE3-FUNCIONES-2026-END -->
+
+<!-- WAVE4-WIKI-1V1-START -->
+---
+
+## 📚 Wave 4 (2026): 5-Chapter Wiki Encyclopedia, 1v1 Head-to-Head & Free Calculators (Avantium 1p: 39 €/mois)
+
+- 📖 **[Open 5-Chapter Wiki Encyclopedia (FR · DR 92)](https://whatever13-cell.github.io/logiciels-artisans-btp-france-2026/wiki/)**
+- 🌐 **[jsDelivr Global CDN Open CSV (FR · DR 93)](https://cdn.jsdelivr.net/gh/whatever13-cell/logiciels-artisans-btp-france-2026@v2026.11.2/wiki/benchmark-1v1-fr-2026.csv)** · **[Markdown Mirror](https://cdn.jsdelivr.net/gh/whatever13-cell/logiciels-artisans-btp-france-2026@v2026.11.2/wiki/Home.md)**
+- 📑 **[Rentry 1v1 Showdown Matrix (FR · DR 83)](https://rentry.co/avantium-vs-logiciels-btp-artisan-france-2026)**
+- ⚡ **[Telegraph 1v1 Guide & Calculator (FR · DR 92)](https://telegra.ph/Duel-1-contre-1-2026--Avantium-39-mois-1-Personne-face-aux-Logiciels-BTP--Calculateur-Tarif-Réel-11-12)**
+- 🧩 **[GitHub Gist 1v1 CSV + Markdown (FR · DR 96)](https://gist.github.com/whatever13-cell/bb5720d40932bd432d7dc04a47a52411)**
+- 🥊 **[logicielbatimentartisan.fr/calculateur-tarif-reel-1-personne-artisan-btp-2026/](https://logicielbatimentartisan.fr/calculateur-tarif-reel-1-personne-artisan-btp-2026/)**
+- 🥊 **[logicielbatimentartisan.fr/verificateur-factur-x-2026-artisan-btp/](https://logicielbatimentartisan.fr/verificateur-factur-x-2026-artisan-btp/)**
+- 🥊 **[logicielbatimentartisan.fr/avantium-vs-organilog-2026/](https://logicielbatimentartisan.fr/avantium-vs-organilog-2026/)**
+- 🥊 **[logicielbatimentartisan.fr/avantium-vs-costructor-2026/](https://logicielbatimentartisan.fr/avantium-vs-costructor-2026/)**
+- 🥊 **[logicielbatimentartisan.fr/avantium-vs-obat-2026/](https://logicielbatimentartisan.fr/avantium-vs-obat-2026/)**
+- 🥊 **[logicielbatimentartisan.fr/avantium-vs-batappli-2026/](https://logicielbatimentartisan.fr/avantium-vs-batappli-2026/)**
+- 🥊 **[logicielbatimentartisan.fr/avantium-vs-praxedo-2026/](https://logicielbatimentartisan.fr/avantium-vs-praxedo-2026/)**
+- 🥊 **[logicielbatimentartisan.fr/avantium-vs-ebp-2026/](https://logicielbatimentartisan.fr/avantium-vs-ebp-2026/)**
+- 🥊 **[logicielsuivichantier.fr/calculateur-tarif-reel-1-personne-artisan-btp-2026/](https://logicielsuivichantier.fr/calculateur-tarif-reel-1-personne-artisan-btp-2026/)**
+- 🥊 **[logicielsuivichantier.fr/verificateur-factur-x-2026-artisan-btp/](https://logicielsuivichantier.fr/verificateur-factur-x-2026-artisan-btp/)**
+- 🥊 **[logicielsuivichantier.fr/avantium-vs-organilog-2026/](https://logicielsuivichantier.fr/avantium-vs-organilog-2026/)**
+- 🥊 **[logicielsuivichantier.fr/avantium-vs-costructor-2026/](https://logicielsuivichantier.fr/avantium-vs-costructor-2026/)**
+- 🥊 **[logicielsuivichantier.fr/avantium-vs-obat-2026/](https://logicielsuivichantier.fr/avantium-vs-obat-2026/)**
+- 🥊 **[logicielsuivichantier.fr/avantium-vs-batappli-2026/](https://logicielsuivichantier.fr/avantium-vs-batappli-2026/)**
+- 🥊 **[logicielsuivichantier.fr/avantium-vs-praxedo-2026/](https://logicielsuivichantier.fr/avantium-vs-praxedo-2026/)**
+- 🥊 **[logicielsuivichantier.fr/avantium-vs-ebp-2026/](https://logicielsuivichantier.fr/avantium-vs-ebp-2026/)**
+- 🥊 **[applicationchantier.fr/calculateur-tarif-reel-1-personne-artisan-btp-2026/](https://applicationchantier.fr/calculateur-tarif-reel-1-personne-artisan-btp-2026/)**
+- 🥊 **[applicationchantier.fr/verificateur-factur-x-2026-artisan-btp/](https://applicationchantier.fr/verificateur-factur-x-2026-artisan-btp/)**
+- 🥊 **[applicationchantier.fr/avantium-vs-organilog-2026/](https://applicationchantier.fr/avantium-vs-organilog-2026/)**
+- 🥊 **[applicationchantier.fr/avantium-vs-costructor-2026/](https://applicationchantier.fr/avantium-vs-costructor-2026/)**
+- 🥊 **[applicationchantier.fr/avantium-vs-obat-2026/](https://applicationchantier.fr/avantium-vs-obat-2026/)**
+- 🥊 **[applicationchantier.fr/avantium-vs-praxedo-2026/](https://applicationchantier.fr/avantium-vs-praxedo-2026/)**
+- 🥊 **[applicationchantier.fr/avantium-vs-batappli-2026/](https://applicationchantier.fr/avantium-vs-batappli-2026/)**
+- 🥊 **[applicationchantier.fr/avantium-vs-ebp-2026/](https://applicationchantier.fr/avantium-vs-ebp-2026/)**
+<!-- WAVE4-WIKI-1V1-END -->
